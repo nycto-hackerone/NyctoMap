@@ -1,2 +1,2 @@
 # NyctoMap
-scrtipt for Nmap makes it simple for noobs
+script for Nmap makes it simple for noobs
